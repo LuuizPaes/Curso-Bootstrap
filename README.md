@@ -1,7 +1,6 @@
 # Curso de Bootstrap - Página de Portfólio 
 
-Esta é uma página de portfólio montada com bootstrap em um curso do DevClub, onde foram utilizadas varias ferramentas para poder 
-otimizar a página, deixando ela responsivel a todas as telas. 
+Esta é uma página de portfólio montada com bootstrap em um curso do DevClub, onde fora utilizadas varios componentes para estilização da página.
 
 ## Vizualize o projeto
 (https://luuizpaes.github.io/Curso-Bootstrap/)
